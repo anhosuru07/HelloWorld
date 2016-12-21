@@ -1,14 +1,15 @@
 package com.test;
 
 public class Student {
-private int sid;
+private int sname;
 
-public int getSid() {
-	return sid;
+public int getSname() {
+	return sname;
 }
 
-public void setSid(int sid) {
-	this.sid = sid;
+public void setSname(int sname) {
+	this.sname = sname;
 }
+
 
 }
